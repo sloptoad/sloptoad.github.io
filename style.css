@@ -116,7 +116,7 @@ h3{font-weight:300;font-size: 35px;line-height:38px;margin-bottom:40px;}
 
 @media (max-width: 600px){
 
-.header-bg {background:url(images/kkim_small.png) center;background-size:100%;
+.header-bg {background:url(images/kkim_small.png) no-repeat center fixed;background-size:100%;
 	h1 {font-size: 27px;line-height: 40px;}
 	.testimonials p{padding: 0;font-size: 14px;line-height: 20px;}
 }
