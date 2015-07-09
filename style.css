@@ -31,7 +31,7 @@ h3{font-weight:300;font-size: 35px;line-height:38px;margin-bottom:40px;}
 .spacer{padding: 100px 0;}
 .center{text-align: center;}
 
-.header-bg {background:url(images/kkim.png) center fixed;background-size:cover;  }
+.header-bg {background:url(images/kkim.png) center fixed;background-size:100% auto;  }
 .header {background:rgba(0,0,0,0.7);position: absolute;top: 0;bottom: 0;left: 0;right: 0;}
 .fullpage .container{display:table; height:inherit;}
 .fullpage .absolute-center{display:table-cell;vertical-align: middle;}
@@ -115,7 +115,7 @@ h3{font-weight:300;font-size: 35px;line-height:38px;margin-bottom:40px;}
 }
 
 @media (max-width: 600px){
-	.header-bg{background-size: 100% auto}
+	.header-bg{background-size: cover}
 	h1 {font-size: 27px;line-height: 40px;}
 	.testimonials p{padding: 0;font-size: 14px;line-height: 20px;}
 }
