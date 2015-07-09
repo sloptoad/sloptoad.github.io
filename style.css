@@ -81,7 +81,10 @@ h3{font-weight:300;font-size: 35px;line-height:38px;margin-bottom:40px;}
 .whole_thing{
 	margin-bottom: 0px !important;
 }
-@media (max-width: 1200px){
+#contact{
+	margin-bottom: 0px;
+}
+@media (max-width: 1500px){
 		h1{font-size: 50px;line-height: 70px;}
 		h2{font-size: 35px;margin-bottom: 50px;}
 		h3{font-size: 25px;margin-bottom: 30px;}
