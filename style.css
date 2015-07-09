@@ -31,9 +31,9 @@ h3{font-weight:300;font-size: 35px;line-height:38px;margin-bottom:40px;}
 .spacer{padding: 100px 0;}
 .center{text-align: center;}
 
-.header-bg {background:url(images/kkim.png) center fixed;background-size:cover;  min-width: 100%;
-  min-height: 100%; }
-.header {background:rgba(0,0,0,0.7);position: absolute;top: 0;bottom: 0;left: 0;right: 0;}
+.header-bg {background:url(images/kkim.png) center fixed;background-size:cover;  }
+.header {background:rgba(0,0,0,0.7);position: absolute;top: 0;bottom: 0;left: 0;right: 0; min-width: 100%;
+  min-height: 100%;}
 .fullpage .container{display:table; height:inherit;}
 .fullpage .absolute-center{display:table-cell;vertical-align: middle;}
 
