@@ -5,7 +5,7 @@
     "main": "index.js",
     "license": "none",
     "dependencies": {
-        "node-sass": "^5.0.0",
+        "node-sass": "^7.0.0",
         "sass": "^1.29.0"
     },
     "scripts": {
